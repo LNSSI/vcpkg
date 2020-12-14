@@ -4,9 +4,9 @@ include(vcpkg_common_functions)
 
 vcpkg_from_github(
     OUT_SOURCE_PATH CURRENT_BUILDTREES_DIR
-    REPO hpcc-systems/gsoap
-    REF v2.7.13
-    SHA512 d4b5b967cf3e8e5134cb2b0d575c41dbde1a298d3c47aefc89ff58be6120e78e9b76179a3cc09a9e4a42f97adb5c117b121811c98a1b319b4390e39e6fe494c0
+    REPO LNSSI/gsoap
+    REF v2.8.109
+    SHA512 528719727c0e6e2fc1148bcd8a0f4e3d245d9f5b3b168a4dfd020cbb0646b9c2c53f061ef3f329a2207fa066787588d98e87d52d9ccf264c78b122fa1bd2d3c4
     HEAD_REF master
 )
 
